@@ -7,10 +7,6 @@ Este projeto é uma API simples construída com Node.js e Express.js. A API forn
 - [Visão Geral](#visão-geral)
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
-- [Executando o Servidor](#executando-o-servidor)
-- [Rotas Disponíveis](#rotas-disponíveis)
-- [Testando as Rotas](#testando-as-rotas)
-- [Licença](#licença)
 
 ## Visão Geral
 
@@ -30,3 +26,4 @@ Antes de começar, certifique-se de ter o Node.js instalado em sua máquina. Voc
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Victor-Hugo-Rodrigues/simple-express-api.git
+
